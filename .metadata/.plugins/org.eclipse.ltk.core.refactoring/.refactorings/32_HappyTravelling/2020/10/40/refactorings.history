@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;32_HappyTravelling&apos;&#x0D;&#x0A;- Original project: &apos;32_HappyTravelling&apos;&#x0D;&#x0A;- Original element: &apos;32_HappyTravelling/src/main/java/del.ac.id.demo&apos;" description="Delete element" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;del.ac.id.demo" element2="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;del.ac.id" element3="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;del.ac" element4="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;del" elements="4" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1601540816599" subPackages="false" version="1.0"/>
+</session>
